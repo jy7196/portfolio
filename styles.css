@@ -28,6 +28,7 @@ body{
     color: rgb(255, 221, 0);
 }
 .jobinfo{
+    color:rgb(255, 221, 0);
     width: 70%;
     margin: auto;
     display: flex;
