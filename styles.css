@@ -277,9 +277,10 @@ a:hover{
         border-radius: 0.6em;
     }
     .menuItem{
-        padding: 1%;
+        padding: 2%;
         flex-grow: 0.15;
         width:1em;
+        font-size: 80%;
     }
     .menuItem:hover{
         background-color: rgba(47, 47, 139, 0.557);
@@ -305,6 +306,10 @@ a:hover{
     }
     #projects{
         margin-bottom: 5%;
+    }
+    .menuItem{
+        font-size: 80%;
+        padding:1%;
     }
     #about{
         margin: auto;
