@@ -29,6 +29,7 @@ body{
 }
 .jobinfo{
     color:rgb(255, 221, 0);
+    text-decoration: none;
     width: 70%;
     margin: auto;
     display: flex;
